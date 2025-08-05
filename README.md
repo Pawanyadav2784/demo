@@ -1,2 +1,2 @@
 # demo
-only use demo
+only use demo.pawan
